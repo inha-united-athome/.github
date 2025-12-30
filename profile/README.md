@@ -45,6 +45,7 @@
 ### **Team Members**
 - Minho Lee
 - Dongjin Cho
+- Minho Lee
 - Jungtae Kim
 - Gunwoo Park
 - Jihyun Han
