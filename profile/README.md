@@ -21,6 +21,11 @@
 
 
 ### **Hardware Setup**
+<p align="center">
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/hardware.png" width="820" /><br/>
+  <b>RB-Y1</b></sub>
+</p>
+
 - **Robot Platform:** RB-Y1 humanoid robot
 - **Main Computer:** Jetson AGX Orin
 - **Perception Computer:** Jetson Thor
