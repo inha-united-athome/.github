@@ -4,16 +4,8 @@ Hi There  👋
 
 🌐 [Team Website](https://inha-united.github.io/Home2026/)  
 📄 [Team Description Papers][PDF](link_to_pdf)
-📧 Corresponding Emails: yg.cho@inha.ac.kr, iwshim@inha.ac.kr, junwoo@inha.ac.kr, wjahn@inha.ac.kr  
-
-**Publications**  
-- Autonomous Navigation using Deep Reinforcement Learning  
-- Human-Robot Interaction: Social Behavior in Service Robots  
-- 3D Mapping and Localization for Indoor Environments  
-
-*(Links to PDFs can be added if available)*
-
 **System Overview**
+
 
 **Hardware Setup**  
 - **Robot Platform:** RB-Y1 humanoid robot  
