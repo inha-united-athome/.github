@@ -9,8 +9,9 @@
 
 
 ### **Resources**
-- 🌐 **Team Website:** https://inha-united.github.io/Home2026/
-- 📄 **Team Description Paper (TDP) 2026 (PDF):** https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf
+- 🌐 [Team Website](https://inha-united.github.io/Home2026/)
+- 📄 [Team Descriptor 2026](https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf)
+
 
 ### **System Overview**
 <p align="center">
