@@ -1,6 +1,6 @@
-# 🤖🏠 Inha-United
+# Hi There  👋
 
-**Team Inha-United** is a research-driven robotics team formed by four laboratories at Inha University, Korea.  
+**We are Inha-United** ,multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, RILS Lab) at Inha University.
 
 🌐 [Team Website](https://inha-united.github.io/Home2026/)  
 📧 Corresponding Emails: yg.cho@inha.ac.kr, iwshim@inha.ac.kr, junwoo@inha.ac.kr, wjahn@inha.ac.kr  
