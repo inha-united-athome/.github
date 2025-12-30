@@ -3,10 +3,8 @@
 **We are Inha-United** ,multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, RILS Lab) at Inha University.
 
 🌐 [Team Website](https://inha-united.github.io/Home2026/)  
+📄 [Team Description Papers][PDF](link_to_pdf)
 📧 Corresponding Emails: yg.cho@inha.ac.kr, iwshim@inha.ac.kr, junwoo@inha.ac.kr, wjahn@inha.ac.kr  
-
-**Team Description Papers**  
-- **Team Description Paper 2026** [PDF](link-to-paper)
 
 **Publications**  
 - Autonomous Navigation using Deep Reinforcement Learning  
