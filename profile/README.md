@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg" width="820" /><br/>
-  <b>Inha-United@home</b>
+  <b><Inha-United@home></b>
 </p>
 
 
