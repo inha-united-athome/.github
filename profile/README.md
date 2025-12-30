@@ -5,7 +5,7 @@ Hi There  👋
 🌐 [Team Website](https://inha-united.github.io/Home2026/)  
 📄 [Team Description Papers][PDF](link_to_pdf)
 **System Overview**
-
+[사진]
 
 **Hardware Setup**  
 - **Robot Platform:** RB-Y1 humanoid robot  
@@ -26,13 +26,12 @@ Hi There  👋
 
 
 **ROS Packages**
-- `inha_quiz` – Quiz-based human-robot interaction  
-- `inha_speech` – Speech recognition and synthesis  
-- `inha_vision` – Computer vision algorithms  
-- `inha_navigation` – Navigation stack  
-- `inha_behavior` – Behavior control  
-- `inha_moveit` – Manipulation planning  
-- `inha_launchfiles` – Launch scripts and configs  
+- [`inha_bringup`](https://github.com/inha-united/inha_bringup) – Robot initialization and launch  
+- [`inha_manipulator`](https://github.com/inha-united/inha_manipulator) – Manipulation services and actions  
+- [`inha_vision`](https://github.com/inha-united/inha_vision) – Computer vision modules  
+- [`inha_hri`](https://github.com/inha-united/inha_hri) – Human-robot interaction modules  
+- [`inha_navigation`](https://github.com/inha-united/inha_navigation) – Navigation stack  
+- [`inha_behavior`](https://github.com/inha-united/inha_behavior) – Behavior control
 
 **Team Members**  
 - Minho Lee  
