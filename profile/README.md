@@ -10,7 +10,7 @@
 📄 [Team Description Paper 2026 PDF](https://github.com/inha-united-athome/.github/blob/main/profile/Inha_United_Team_Description_Paper.pdf)
 
 **System Overview**
-![System Overview](https://github.com/inha-united-athome/.github/blob/main/profile/system_overview.png)
+![System Overview](https://github.com/inha-united-athome/.github/blob/main/profile/system_overview.jpg)
 
 
 
