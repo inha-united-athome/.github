@@ -37,7 +37,7 @@
 ### **ROS Packages**
 - [inha_bringup](https://github.com/inha-united-athome/inha_bringup) 
 - [inha_manipulator](https://github.com/inha-united-athome/inha_manipulator)
-- [inha_vision](https://github.com/inha-united-athome/inha_vision) 
+- [inha_perception](https://github.com/inha-united-athome/inha_vision) 
 - [inha_hri](https://github.com/inha-united-athome/inha_hri)
 - [inha_navigation](https://github.com/inha-united-athome/inha_navigation)
 - [inha_behavior](https://github.com/inha-united-athome/inha_behavior)
