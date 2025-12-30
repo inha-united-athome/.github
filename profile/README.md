@@ -31,12 +31,12 @@
 
 
 ### **ROS Packages**
-- [`inha_bringup`](https://github.com/inha-united-athome/inha_bringup) — **Robot initialization and launch**
-- [`inha_manipulator`](https://github.com/inha-united-athome/inha_manipulator) — **Manipulation services and actions**
-- [`inha_vision`](https://github.com/inha-united-athome/inha_vision) — **Computer vision modules**
-- [`inha_hri`](https://github.com/inha-united-athome/inha_hri) — **Human–robot interaction modules**
-- [`inha_navigation`](https://github.com/inha-united-athome/inha_navigation) — **Navigation stack**
-- [`inha_behavior`](https://github.com/inha-united-athome/inha_behavior) — **Behavior control**
+- [inha_bringup](https://github.com/inha-united-athome/inha_bringup) 
+- [inha_manipulator](https://github.com/inha-united-athome/inha_manipulator)
+- [inha_vision](https://github.com/inha-united-athome/inha_vision) 
+- [inha_hri](https://github.com/inha-united-athome/inha_hri)
+- [inha_navigation](https://github.com/inha-united-athome/inha_navigation)
+- [inha_behavior](https://github.com/inha-united-athome/inha_behavior)
 
 ### **Team Members**
 - Minho Lee
