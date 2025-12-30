@@ -15,7 +15,7 @@
 **System Overview**
 <p align="center">
   <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="820" style="border-radius: 18px;" /><br/>
-  <sub><b>System Overview</b></sub>
+  <b> <System Overview> </b></sub>
 </p>
 
 
