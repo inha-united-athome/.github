@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg" width="820" /><br/>
-  <b><Inha-United@home></b>
+  <b>Inha-United@home</b>
 </p>
 
 
@@ -14,13 +14,10 @@
 
 **System Overview**
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png"
-       width="820"
-       style="border-radius: 18px;" />
-</p>
-<p align="center">
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="820" style="border-radius: 18px;" /><br/>
   <sub><b>System Overview</b></sub>
 </p>
+
 
 **Hardware Setup**
 - **Robot Platform:** RB-Y1 humanoid robot
