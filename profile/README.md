@@ -30,9 +30,8 @@
 - **Main Computer:** Jetson AGX Orin
 - **Perception Computer:** Jetson Thor
 - **Cameras:** Intel RealSense D435f (head), D405 (arms)
-- **LiDAR:** Livox MID-360 (depth sensing)
+- **LiDAR:** Livox MID-360 / LakiBeam
 - **Actuators:** Dual arms with grippers, differential-drive mobile base
-- **Target Tasks:** Reception, person guidance, object delivery, grocery storing, restaurant serving
 
 
 ### **ROS Packages**
