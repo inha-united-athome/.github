@@ -5,7 +5,10 @@ Hi There  👋
 🌐 [Team Website](https://inha-united.github.io/Home2026/)  
 📄 [Team Description Papers][PDF](link_to_pdf)
 **System Overview**
-[사진]
+
+![System Overview](https://github.com/inha-united/Home2026/raw/main/images/system_overview.png)
+
+
 
 **Hardware Setup**  
 - **Robot Platform:** RB-Y1 humanoid robot  
@@ -24,14 +27,13 @@ Hi There  👋
   3. **Human–Robot Interaction:** Speech recognition (Whisper-v3), gesture recognition, human pose estimation, LLM-guided behavior trees  
 - **Reusable Modules:** Each mission combines modules from all three stacks for flexible task execution  
 
-
 **ROS Packages**
-- [`inha_bringup`](https://github.com/inha-united/inha_bringup) – Robot initialization and launch  
-- [`inha_manipulator`](https://github.com/inha-united/inha_manipulator) – Manipulation services and actions  
-- [`inha_vision`](https://github.com/inha-united/inha_vision) – Computer vision modules  
-- [`inha_hri`](https://github.com/inha-united/inha_hri) – Human-robot interaction modules  
-- [`inha_navigation`](https://github.com/inha-united/inha_navigation) – Navigation stack  
-- [`inha_behavior`](https://github.com/inha-united/inha_behavior) – Behavior control
+- [`inha_bringup`](https://github.com/inha-united-athome/inha_bringup) – Robot initialization and launch  
+- [`inha_manipulator`]([https://github.com/inha-united-athome/inha_manipulator) – Manipulation services and actions  
+- [`inha_vision`](https://github.com/inha-united-athome/inha_vision) – Computer vision modules  
+- [`inha_hri`](https://github.com/inha-united-athome/inha_hri) – Human-robot interaction modules  
+- [`inha_navigation`](https://github.com/inha-united-athome/inha_navigation) – Navigation stack  
+- [`inha_behavior`](https://github.com/inha-united-athome/inha_behavior) – Behavior control
 
 **Team Members**  
 - Minho Lee  
@@ -48,8 +50,3 @@ Hi There  👋
 - Junwoo Jang  
 - Woojin Ahn  
 
-**Links**  
-- 🌐 [Team Website](https://inha-united.github.io/Home2026/)  
-- 📧 Email: equipe.inhaunited@gmail.com  
-- 🐦 [Twitter](https://twitter.com/inhaunited)  
-- 🐙 [GitHub](https://github.com/inha-united)  
