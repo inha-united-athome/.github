@@ -1,11 +1,14 @@
 Hi There  👋
-
 **We are Inha-United**, multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, RILS Lab) at Inha University.
 
-🌐 [Team Website](https://inha-united.github.io/Home2026/)  
-📄 [Team Description Papers][PDF](link_to_pdf)
-**System Overview**
+![photo](https://github.com/inha-united-athome/.github/blob/main/profile/inha_united.png)
 
+
+
+🌐 [Team Website](https://inha-united.github.io/Home2026/)  
+📄 [Team Description Paper 2026 PDF](https://github.com/inha-united-athome/.github/blob/main/profile/Inha_United_Team_Description_Paper.pdf)
+
+**System Overview**
 ![System Overview](https://github.com/inha-united/Home2026/raw/main/images/system_overview.png)
 
 
