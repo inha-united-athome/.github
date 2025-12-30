@@ -1,7 +1,6 @@
 **Hi there 👋**
 
-**We are Inha-United**, a multi-lab research group at **Inha University** in **Incheon, South Korea**,  
-comprising **RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab**.
+**We are Inha-United**, a multi-lab research group (**RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab**) at **Inha University** in **Incheon, South Korea**.
 
 <p align="center">
   <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg"
