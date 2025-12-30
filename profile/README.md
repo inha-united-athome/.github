@@ -2,7 +2,7 @@
 
 **We are Inha-United**, multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, RILS Lab) at Inha University.
 
-![photo](https://github.com/inha-united-athome/.github/blob/main/profile/inha_united.raw)
+![photo](https://github.com/inha-united-athome/.github/blob/main/profile/inha_united.jpg)
 
 
 
