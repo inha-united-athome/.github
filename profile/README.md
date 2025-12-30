@@ -1,4 +1,4 @@
-# Inha-United
+# 🏠 Inha-United
 
 **Team Inha-United** is a research-driven robotics team formed by four laboratories at Inha University, Korea.  
 We integrate expertise in SLAM, robot learning, multimodal perception, and large language models into unified service-robot systems for dynamic domestic environments.  
