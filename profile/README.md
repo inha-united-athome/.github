@@ -1,4 +1,4 @@
-# 🤖🏠 United Inha
+# 🤖🏠 Inha-United
 
 **Team Inha-United** is a research-driven robotics team formed by four laboratories at Inha University, Korea.  
 
@@ -34,13 +34,8 @@
   3. **Human–Robot Interaction:** Speech recognition (Whisper-v3), gesture recognition, human pose estimation, LLM-guided behavior trees  
 - **Reusable Modules:** Each mission combines modules from all three stacks for flexible task execution  
 
-**Robot Platforms**  
-- **Social Robots:** Neubie, RB-Y1  
-- **Field Robots:** Dual-Armed Tracer, GO2, Scout-Mini, Rover  
 
 **ROS Packages**
-
-**ROS1**  
 - `inha_quiz` – Quiz-based human-robot interaction  
 - `inha_speech` – Speech recognition and synthesis  
 - `inha_vision` – Computer vision algorithms  
@@ -49,44 +44,16 @@
 - `inha_moveit` – Manipulation planning  
 - `inha_launchfiles` – Launch scripts and configs  
 
-**ROS2**  
-- `iu_behavior` – ROS2 behavior nodes  
-- `iu_navigation` – ROS2 navigation stack  
-- `iu_hri` – Human-robot interaction modules  
-- `iu_vision` – Computer vision for ROS2  
-- `iu_world` – Simulation and world description  
-- `iu_bringup` – Robot initialization and launch  
-- `iu_manipulator` – Manipulation services and actions  
-- `iu_description` – URDF and robot description  
-- `iu_simulation` – Gazebo simulation setup  
-- `iu_agent` – AI/learning agent modules  
-- `iu_learning` – Learning algorithms  
-
-**Awards**
-
-**RoboCup@Home**  
-- **Salvador 2025** – 7th Place  
-- **Eindhoven 2024** – 11th Place  
-- **Bordeaux 2023** – 9th Place  
-- **Bangkok 2022** – 3rd Place  
-
-**Korean Robotics Competitions**  
-- 2025 – 1st Place 🥇  
-- 2024 – 1st Place 🥇  
-- 2023 – 1st Place 🥇  
-- 2022 – 1st Place 🥇  
-- 2021 – 2nd Place 🥈  
-- 2020 – 3rd Place 🥉  
-
 **Team Members**  
 - Minho Lee  
-- Dongjin Cho  
+- Dongjin Cho
+- Minho Lee 
 - Jungtae Kim  
 - Gunwoo Park  
-- Jiyun Kim  
 - Jihyun Han  
 - Sanghyun Lee  
-- Wonhyuk Jung  
+- Wonhyuk Jung
+- GiHyeok Kwon
 - Yonggun Cho  
 - Inwook Shim  
 - Junwoo Jang  
