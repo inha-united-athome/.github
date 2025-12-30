@@ -3,20 +3,23 @@
 **We are Inha-United**, a multi-lab research group (**RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab**) at **Inha University** in **Incheon, South Korea**.
 
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg"
-       width="820"
-       style="border-radius: 18px;" />
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg" width="820" />
 </p>
-<p align="center">
-  <sub><b>Inha-United@home</b></sub>
-</p>
+<h3 align="center">Inha-United@home</h3>
 
 **Resources**
 - 🌐 **Team Website:** https://inha-united.github.io/Home2026/
 - 📄 **Team Description Paper (TDP) 2026 (PDF):** https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf
 
 **System Overview**
-![System Overview](https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png)
+<p align="center">
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png"
+       width="820"
+       style="border-radius: 18px;" />
+</p>
+<p align="center">
+  <sub><b>System Overview</b></sub>
+</p>
 
 **Hardware Setup**
 - **Robot Platform:** RB-Y1 humanoid robot
