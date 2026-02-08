@@ -3,7 +3,7 @@
 **We are Inha-United**, a multi-lab research group (**RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab**) at **Inha University** in **Incheon, South Korea**.
 
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg" width="820" /><br/>
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha_united.jpg" width="500" /><br/>
   <b>Inha-United@home</b>
 </p>
 
@@ -15,14 +15,14 @@
 
 ### **System Overview**
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="80%" /><br/>
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="500" /><br/>
   <b>System Overview</b></sub>
 </p>
 
 
 ### **Hardware Setup**
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="80%" /><br/>
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="500" /><br/>
   <b>RB-Y1</b></sub>
 </p>
 
