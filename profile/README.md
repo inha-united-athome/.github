@@ -7,6 +7,10 @@
   <b>Inha-United@home</b>
 </p>
 
+---
+## About Inha-United
+**Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision, and Autonomous Systems.
+
 | Category | Link |
 |---|---|
 | **🌐 Website** | <a href="https://inha-united.github.io/Home2026/"><img src="https://img.shields.io/badge/Official_Website-00529B?style=flat" height="24"/></a> |
