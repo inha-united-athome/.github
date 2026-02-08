@@ -46,17 +46,12 @@
 - [inha_behavior](https://github.com/inha-united-athome/inha_behavior)
 - 
 
-## **Team Members**
-- Minho Lee
-- Dongjin Cho
-- Minho Lee
-- Jungtae Kim
-- Gunwoo Park
-- Jihyun Han
-- Sanghyun Lee
-- Wonhyuk Jung
-- Gihyeok Kwon
-- Yonggun Cho
-- Inwook Shim
-- Junwoo Jang
-- Woojin Ahn
+## Research Team
+
+### Principal Investigators
+<p align="left">
+  <code><b>Yonggun Cho</b></code> &nbsp; <code><b>Inwook Shim</b></code> &nbsp; <code><b>Junwoo Jang</b></code> &nbsp; <code><b>Woojin Ahn</b></code>
+</p>
+
+### Core Members
+`Minho Lee`  `Dongjin Cho` `Minho Lee`  `Jungtae Kim`  `Gunwoo Park`  `Jihyun Han`  `Sanghyun Lee`  `Wonhyuk Jung`  `Gihyeok Kwon`  `Yonggun Cho`  `Inwook Shim`  `Junwoo Jang`  `Woojin Ahn`
