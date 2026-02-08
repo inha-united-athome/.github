@@ -21,16 +21,28 @@
   <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="500" /><br/>
   <b>System Overview</b></sub>
 </p>
-## **Hardware Setup** <p align="center"> <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="500" /><br/> <b>RB-Y1</b></sub> </p> - **Robot Platform:** RB-Y1 humanoid robot - **Main Computer:** Jetson AGX Orin - **Perception Computer:** Jetson Thor - **Cameras:** Intel RealSense D435f (head), D405 (arms) - **LiDAR:** Livox MID-360 (3D), LakiBeam (2D) - **Actuators:** Dual arms with grippers, differential-drive mobile base
+
+## **Hardware Setup**
+
+<p align="center">
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="500" />
+  <br/>
+  <b>RB-Y1</b>
+</p>
+
+- **Robot Platform:** RB-Y1 humanoid robot  
+- **Main Computer:** Jetson AGX Orin  
+- **Perception Computer:** Jetson Thor  
+- **Cameras:** Intel RealSense D435f (head), D405 (arms)  
+- **LiDAR:** Livox MID-360 (3D), LakiBeam (2D)  
+- **Actuators:** Dual arms with grippers, differential-drive mobile base
 
 
 ## **ROS Packages**
-- [inha_bringup](https://github.com/inha-united-athome/inha_bringup) 
-- [inha_manipulator](https://github.com/inha-united-athome/inha_manipulator)
-- [inha_perception](https://github.com/inha-united-athome/inha_vision) 
-- [inha_hri](https://github.com/inha-united-athome/inha_hri)
-- [inha_navigation](https://github.com/inha-united-athome/inha_navigation)
-- [inha_behavior](https://github.com/inha-united-athome/inha_behavior)
+- [rby1-isaacsim-ros2](https://github.com/inha-united-athome/rby1-isaacsim-ros2) 
+- [rby1-mujoco-ros2](https://github.com/inha-united-athome/rby1-mujoco-ros2)
+- [rby1_LIBERO](https://github.com/inha-united-athome/rby1_LIBERO) 
+- [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset)
 - 
 
 ## Research Team
