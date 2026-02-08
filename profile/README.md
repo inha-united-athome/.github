@@ -64,14 +64,14 @@
   <tr>
     <td align="center" bgcolor="white">
       <a href="https://sparolab.github.io" target="_blank">
-        <img src="/profile/assets/sparo.png" width="150" height="90"/><br />
+        <img src="/profile/sparo.png" width="150" height="90"/><br />
         <br />
         <b>SPARO Lab</b>
       </a>
     </td>
     <td align="center" bgcolor="white">
       <a href="https://rcv-inha.notion.site/webhome" target="_blank">
-        <img src="/profile/assets/RCVLAB.png" width="150" height="80" /><br />
+        <img src="/profile/RCVLAB.png" width="150" height="80" /><br />
         <b>RCV Lab</b>
       </a>
     </td>
