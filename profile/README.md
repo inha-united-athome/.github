@@ -25,13 +25,12 @@
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
+    <td width="70%" align="center" style="border: none;">
       <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png"
            width="100%" style="border-radius: 15px;" />
       <br/>
-      <sub><b>RB-Y1</b></sub>
     </td>
-    <td width="50%" style="border: none; vertical-align: top; padding-left: 20px;">
+    <td width="30%" style="border: none; vertical-align: top; padding-left: 20px;">
       <h3>🛠️ Hardware Specs</h3>
       <ul>
         <li><b>Robot Platform:</b> RB-Y1 humanoid robot</li>
