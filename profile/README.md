@@ -15,14 +15,14 @@
 
 ### **System Overview**
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="820" /><br/>
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="80%" /><br/>
   <b>System Overview</b></sub>
 </p>
 
 
 ### **Hardware Setup**
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="820" /><br/>
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="80%" /><br/>
   <b>RB-Y1</b></sub>
 </p>
 
