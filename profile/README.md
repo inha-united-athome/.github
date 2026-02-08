@@ -38,12 +38,12 @@
 - **Actuators:** Dual arms with grippers, differential-drive mobile base
 
 
-## **ROS Packages**
+## **Core Packages**
 - [rby1-isaacsim-ros2](https://github.com/inha-united-athome/rby1-isaacsim-ros2) 
 - [rby1-mujoco-ros2](https://github.com/inha-united-athome/rby1-mujoco-ros2)
 - [rby1_LIBERO](https://github.com/inha-united-athome/rby1_LIBERO) 
 - [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset)
-- 
+- [inha-rby1-dataset](https://github.com/inha-united-athome/inha-rby1-dataset) 
 
 ## Research Team
 
