@@ -22,7 +22,7 @@
 
 ### **Hardware Setup**
 <p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/hardware.png" width="820" /><br/>
+  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="820" /><br/>
   <b>RB-Y1</b></sub>
 </p>
 
