@@ -55,3 +55,46 @@
 
 ### Core Members
 `Minho Lee`  `Dongjin Cho` `Minho Lee`  `Jungtae Kim`  `Gunwoo Park`  `Jihyun Han`  `Sanghyun Lee`  `Wonhyuk Jung`  `Gihyeok Kwon`  `Yonggun Cho`  `Inwook Shim`  `Junwoo Jang`  `Woojin Ahn`
+
+<br/>
+
+## Participating Institutions
+
+<table align="center" bgcolor="white">
+  <tr>
+    <td align="center" bgcolor="white">
+      <a href="https://sparolab.github.io" target="_blank">
+        <img src="/profile/assets/sparo.png" width="150" height="90"/><br />
+        <br />
+        <b>SPARO Lab</b>
+      </a>
+    </td>
+    <td align="center" bgcolor="white">
+      <a href="https://rcv-inha.notion.site/webhome" target="_blank">
+        <img src="/profile/assets/RCVLAB.png" width="150" height="80" /><br />
+        <b>RCV Lab</b>
+      </a>
+    </td>
+    <td align="center" bgcolor="white">
+      <a href="https://artemis-inha.github.io/" target="_blank">
+        <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="150" height="100"/><br />
+        <br />
+        <b>ARTEMIS Lab</b>
+      </a>
+    </td>
+    <td align="center" bgcolor="white">
+      <a href="https://wjahn.github.io/rils/" target="_blank">
+        <img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" width="130" height="80"/><br />
+        <b>RILS Lab</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+<div align="center">
+<img width="240" height="" alt="image" src="https://github.com/user-attachments/assets/16d3267a-6113-45da-9731-bf422aa9eaa5" />
+</div>
+
+<div align="center"> Copyright © 2026 Inha-United. <br>
+  Repositories under this organization are released under the Apache License 2.0. </div>
