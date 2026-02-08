@@ -21,8 +21,7 @@
   <img src="https://github.com/inha-united-athome/.github/raw/main/profile/system_overview.png" width="500" /><br/>
   <b>System Overview</b></sub>
 </p>
-
-## Hardware Setup
+## Hardware Setup: 
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
@@ -32,7 +31,6 @@
       <br/>
       <sub><b>RB-Y1</b></sub>
     </td>
-
     <td width="50%" style="border: none; vertical-align: top; padding-left: 20px;">
       <h3>🛠️ Hardware Specs</h3>
       <ul>
@@ -56,6 +54,9 @@
     </td>
   </tr>
 </table>
+
+
+
 ## **ROS Packages**
 - [inha_bringup](https://github.com/inha-united-athome/inha_bringup) 
 - [inha_manipulator](https://github.com/inha-united-athome/inha_manipulator)
