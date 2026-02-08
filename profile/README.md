@@ -22,21 +22,40 @@
   <b>System Overview</b></sub>
 </p>
 
+## Hardware Setup
 
-## **Hardware Setup**
-<p align="center">
-  <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png" width="500" /><br/>
-  <b>RB-Y1</b></sub>
-</p>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github.com/inha-united-athome/.github/raw/main/profile/inha-united-hardware.png"
+           width="100%" style="border-radius: 15px;" />
+      <br/>
+      <sub><b>RB-Y1</b></sub>
+    </td>
 
-- **Robot Platform:** RB-Y1 humanoid robot
-- **Main Computer:** Jetson AGX Orin
-- **Perception Computer:** Jetson Thor
-- **Cameras:** Intel RealSense D435f (head), D405 (arms)
-- **LiDAR:** Livox MID-360 (3D), LakiBeam (2D)
-- **Actuators:** Dual arms with grippers, differential-drive mobile base
-
-
+    <td width="50%" style="border: none; vertical-align: top; padding-left: 20px;">
+      <h3>🛠️ Hardware Specs</h3>
+      <ul>
+        <li><b>Robot Platform:</b> RB-Y1 humanoid robot</li>
+        <li><b>Main Computer:</b> Jetson AGX Orin</li>
+        <li><b>Perception Computer:</b> Jetson Thor</li>
+        <li><b>Cameras:</b>
+          <ul>
+            <li>Intel RealSense D435f (head)</li>
+            <li>Intel RealSense D405 (arms)</li>
+          </ul>
+        </li>
+        <li><b>LiDAR:</b>
+          <ul>
+            <li>Livox MID-360 (3D)</li>
+            <li>LakiBeam (2D)</li>
+          </ul>
+        </li>
+        <li><b>Actuators:</b> Dual arms with grippers, differential-drive mobile base</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ## **ROS Packages**
 - [inha_bringup](https://github.com/inha-united-athome/inha_bringup) 
 - [inha_manipulator](https://github.com/inha-united-athome/inha_manipulator)
