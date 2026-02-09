@@ -8,7 +8,8 @@
 </p>
 
 ## About Inha-United
-**Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision[...]  
+**Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision, and Autonomous Systems.
+
 
 | Category | Link |
 |---|---|
