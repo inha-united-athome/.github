@@ -40,33 +40,32 @@
 
 ## **Our Packages**
 
-### Simulation & Training
+### 🎮 Simulation & Training
 - [rby1-isaacsim-ros2](https://github.com/inha-united-athome/rby1-isaacsim-ros2) - Custom-built simulation stage for competition-ready autonomous robots
 - [rby1-mujoco-ros2](https://github.com/inha-united-athome/rby1-mujoco-ros2) - MuJoCo simulation environments configured for RB-Y1 robot
 - [rby1_LIBERO](https://github.com/inha-united-athome/rby1_LIBERO) - LIBERO benchmark integration for RB-Y1
 
-### Datasets
+### 📊 Datasets
 - [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset) - LeRobot compatible dataset for RB-Y1
 - [inha-rby1-dataset](https://github.com/inha-united-athome/inha-rby1-dataset) - Real-world RB-Y1 humanoid demonstration dataset for diverse manipulation tasks
-  
-### Manipulation
+
+### 🦾 Manipulation
 - [rby1_inha_moveit](https://github.com/inha-united-athome/rby1_inha_moveit) - RBY1 a.1.1 model MoveIt config
 - [anyplace](https://github.com/inha-united-athome/anyplace) - AnyPlace: Learning Generalized Object Placement for Robot Manipulation
 
-### Navigation
+### 🗺️ Navigation
 - [rby1_inha_nav2](https://github.com/inha-united-athome/rby1_inha_nav2) - Navigation stack for RB-Y1
 - [frontier_exploration_ros2](https://github.com/inha-united-athome/frontier_exploration_ros2) - ROS2 package for frontier exploration based on explore_lite
 
-### Perception & Vision
+### 👁️ Perception & Vision
 - [FoundationPoseROS2](https://github.com/inha-united-athome/FoundationPoseROS2) - RTX 50xx (Blackwell) GPU support with CUDA 12.8 & PyTorch 2.7+ for ROS2 Humble
 - [inha_perception](https://github.com/inha-united-athome/inha_perception) - Perception modules for Inha-United
 
-
-### Human-Robot Interaction
+### 🗣️ Human-Robot Interaction
 - [inha_audio](https://github.com/inha-united-athome/inha_audio) - Audio processing and speech recognition
 - [inha_face](https://github.com/inha-united-athome/inha_face) - Face recognition and processing
 
-### Utilities & Tools
+### 🛠️ Utilities & Tools
 - [easy_handeye2](https://github.com/inha-united-athome/easy_handeye2) - Automated, hardware-independent Hand-Eye Calibration for ROS2
 - [inha_bt](https://github.com/inha-united-athome/inha_bt) - Behavior Tree implementation for task planning
 - [RobotUI](https://github.com/inha-united-athome/RobotUI) - WebUI for checking robot and sensors condition
