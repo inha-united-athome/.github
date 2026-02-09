@@ -13,7 +13,7 @@
 | Category | Link |
 |---|---|
 | **🌐 Website** | <a href="https://inha-united.github.io/Home2026/"><img src="https://img.shields.io/badge/Official_Website-00529B?style=flat" height="24"/></a> |
-| **📄 Team Descriptor 2026** | <a href="https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf"><img src="https://img.shields.io/badge/Team_Descriptio[...] |
+| **📄 Team Descriptor 2026** | <a href="https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf"><img src="https://img.shields.io/badge/Team_Description_Paper-FFA500?style=flat" height="24"/></a> |
 | **📺 YouTube** | <a href="https://www.youtube.com/@Inha-United_Home"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat" height="24"/></a> |
 
 ## **System Overview**
