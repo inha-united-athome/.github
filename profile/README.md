@@ -53,7 +53,7 @@
 </p>
 
 ### Core Members
-`Minho Lee`  `Dongjin Cho` `Minho Lee`  `Jungtae Kim`  `Gunwoo Park`  `Jihyun Han`  `Sanghyun Lee`  `Wonhyuk Jung`  `Gihyeok Kwon`  `
+`Minho Lee`  `Dongjin Cho` `Minho Lee`  `Jungtae Kim`  `Gunwoo Park`  `Jihyun Han`  `Sanghyun Lee`  `Wonhyuk Jung`  `Gihyeok Kwon`  
 
 <br/>
 
