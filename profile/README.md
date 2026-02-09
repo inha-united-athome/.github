@@ -48,7 +48,7 @@
 ### Datasets
 - [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset) - LeRobot compatible dataset for RB-Y1
 - [inha-rby1-dataset](https://github.com/inha-united-athome/inha-rby1-dataset) - Real-world RB-Y1 humanoid demonstration dataset for diverse manipulation tasks
-- 
+  
 ### Manipulation
 - [rby1_inha_moveit](https://github.com/inha-united-athome/rby1_inha_moveit) - RBY1 a.1.1 model MoveIt config
 - [anyplace](https://github.com/inha-united-athome/anyplace) - AnyPlace: Learning Generalized Object Placement for Robot Manipulation
