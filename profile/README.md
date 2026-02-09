@@ -60,7 +60,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 
 - 👁️ **Perception & Vision**
   - [FoundationPoseROS2](https://github.com/inha-united-athome/FoundationPoseROS2) - RTX 50xx (Blackwell) GPU support with CUDA 12.8 & PyTorch 2.7+ for ROS2 Humble
-  - [inha_perception](https://github.com/inha-united-athome/inha_perception) - Perception modules for Inha-United
+  - [inha_perception](https://github.com/inha-united-athome/inha_perception) - Perception modules for RB-Y1
 
 - 🗣️ **Human-Robot Interaction**
   - [inha_audio](https://github.com/inha-united-athome/inha_audio) - Audio processing and speech recognition
