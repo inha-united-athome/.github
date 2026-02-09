@@ -53,7 +53,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 - 🦾 **Manipulation**
   - [rby1_inha_moveit](https://github.com/inha-united-athome/rby1_inha_moveit) - RBY1 a.1.1 model MoveIt config
   - [anyplace](https://github.com/inha-united-athome/anyplace) - AnyPlace: Learning Generalized Object Placement for Robot Manipulation
-
+  - [GrasGen_inha](https://github.com/inha-united-athome/GraspGen_inha) - GraspGen integration for Inha-United (grasp generation module)
 - 🗺️ **Navigation**
   - [rby1_inha_nav2](https://github.com/inha-united-athome/rby1_inha_nav2) - Navigation stack for RB-Y1
   - [frontier_exploration_ros2](https://github.com/inha-united-athome/frontier_exploration_ros2) - ROS2 package for frontier exploration based on explore_lite
