@@ -48,15 +48,17 @@
 ### Datasets
 - [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset) - LeRobot compatible dataset for RB-Y1
 - [inha-rby1-dataset](https://github.com/inha-united-athome/inha-rby1-dataset) - Real-world RB-Y1 humanoid demonstration dataset for diverse manipulation tasks
-
-### Robot Control & Navigation
+- 
+### Manipulation
 - [rby1_inha_moveit](https://github.com/inha-united-athome/rby1_inha_moveit) - RBY1 a.1.1 model MoveIt config
+- [anyplace](https://github.com/inha-united-athome/anyplace) - AnyPlace: Learning Generalized Object Placement for Robot Manipulation
+
+### Navigation
 - [rby1_inha_nav2](https://github.com/inha-united-athome/rby1_inha_nav2) - Navigation stack for RB-Y1
 - [frontier_exploration_ros2](https://github.com/inha-united-athome/frontier_exploration_ros2) - ROS2 package for frontier exploration based on explore_lite
 
 ### Perception & Vision
 - [FoundationPoseROS2](https://github.com/inha-united-athome/FoundationPoseROS2) - RTX 50xx (Blackwell) GPU support with CUDA 12.8 & PyTorch 2.7+ for ROS2 Humble
-- [anyplace](https://github.com/inha-united-athome/anyplace) - AnyPlace: Learning Generalized Object Placement for Robot Manipulation
 - [inha_perception](https://github.com/inha-united-athome/inha_perception) - Perception modules for Inha-United
 
 
