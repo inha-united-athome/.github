@@ -8,12 +8,12 @@
 </p>
 
 ## About Inha-United
-**Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision, and Autonomous Systems.
+**Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision[...]  
 
 | Category | Link |
 |---|---|
 | **🌐 Website** | <a href="https://inha-united.github.io/Home2026/"><img src="https://img.shields.io/badge/Official_Website-00529B?style=flat" height="24"/></a> |
-| **📄 Team Descriptor 2026** | <a href="https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf"><img src="https://img.shields.io/badge/Team_Description_Paper-FFA500?style=flat" height="24"/></a> |
+| **📄 Team Descriptor 2026** | <a href="https://github.com/inha-united-athome/.github/raw/main/profile/Inha_United_Team_Description_Paper.pdf"><img src="https://img.shields.io/badge/Team_Descriptio[...] |
 | **📺 YouTube** | <a href="https://www.youtube.com/@Inha-United_Home"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat" height="24"/></a> |
 
 ## **System Overview**
@@ -38,12 +38,36 @@
 - **Actuators:** Dual arms with grippers, differential-drive mobile base
 
 
-## **Core Packages**
-- [rby1-isaacsim-ros2](https://github.com/inha-united-athome/rby1-isaacsim-ros2) 
-- [rby1-mujoco-ros2](https://github.com/inha-united-athome/rby1-mujoco-ros2)
-- [rby1_LIBERO](https://github.com/inha-united-athome/rby1_LIBERO) 
-- [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset)
-- [inha-rby1-dataset](https://github.com/inha-united-athome/inha-rby1-dataset) 
+## **Our Packages**
+
+### Simulation & Training
+- [rby1-isaacsim-ros2](https://github.com/inha-united-athome/rby1-isaacsim-ros2) - Custom-built simulation stage for competition-ready autonomous robots
+- [rby1-mujoco-ros2](https://github.com/inha-united-athome/rby1-mujoco-ros2) - MuJoCo simulation environments configured for RB-Y1 robot
+- [rby1_LIBERO](https://github.com/inha-united-athome/rby1_LIBERO) - LIBERO benchmark integration for RB-Y1
+
+### Datasets
+- [rby1-lerobot_dataset](https://github.com/inha-united-athome/rby1-lerobot_dataset) - LeRobot compatible dataset for RB-Y1
+- [inha-rby1-dataset](https://github.com/inha-united-athome/inha-rby1-dataset) - Real-world RB-Y1 humanoid demonstration dataset for diverse manipulation tasks
+
+### Robot Control & Navigation
+- [rby1_inha_moveit](https://github.com/inha-united-athome/rby1_inha_moveit) - RBY1 a.1.1 model MoveIt config
+- [rby1_inha_nav2](https://github.com/inha-united-athome/rby1_inha_nav2) - Navigation stack for RB-Y1
+- [frontier_exploration_ros2](https://github.com/inha-united-athome/frontier_exploration_ros2) - ROS2 package for frontier exploration based on explore_lite
+
+### Perception & Vision
+- [FoundationPoseROS2](https://github.com/inha-united-athome/FoundationPoseROS2) - RTX 50xx (Blackwell) GPU support with CUDA 12.8 & PyTorch 2.7+ for ROS2 Humble
+- [anyplace](https://github.com/inha-united-athome/anyplace) - AnyPlace: Learning Generalized Object Placement for Robot Manipulation
+- [inha_perception](https://github.com/inha-united-athome/inha_perception) - Perception modules for Inha-United
+
+
+### Human-Robot Interaction
+- [inha_audio](https://github.com/inha-united-athome/inha_audio) - Audio processing and speech recognition
+- [inha_face](https://github.com/inha-united-athome/inha_face) - Face recognition and processing
+
+### Utilities & Tools
+- [easy_handeye2](https://github.com/inha-united-athome/easy_handeye2) - Automated, hardware-independent Hand-Eye Calibration for ROS2
+- [inha_bt](https://github.com/inha-united-athome/inha_bt) - Behavior Tree implementation for task planning
+- [RobotUI](https://github.com/inha-united-athome/RobotUI) - WebUI for checking robot and sensors condition
 
 ## Research Team
 
