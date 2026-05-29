@@ -84,7 +84,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 </p>
 
 ### Core Members
-`Minho Lee`  `Dongjin Cho` `Minho Lee`  `Jungtae Kim`  `Gunwoo Park`  `Jihyun Han`  `Sanghyun Lee`  `Wonhyuk Jung`  `Gihyeok Kwon`  
+`Minho Lee`  `Dongjin Cho` `Minho Lee`  `Jungtae Kim`  `Gunwoo Park`  `Jihyun Han`  `Sanghyun Lee`  `Wonhyuk Jung` 
 
 <br/>
 
